@@ -115,8 +115,11 @@ li a:hover {
 }
 
 button:hover {
-  background-color:black;
-  color:white;
+  background-color: black;
+
+  a {
+    color: white;
+  }
 }
 
 li {
