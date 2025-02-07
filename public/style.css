@@ -79,7 +79,7 @@ img {
 }
 
 p {
-  margin: 30px;
+  margin: 20px;
   font-family: "Questrial", serif;
   font-weight: 400;
   font-style: normal;
@@ -97,17 +97,13 @@ li {
 a {
   color: white;
   border-radius: 50px;
-  padding:0.2vw;
+  padding:2.5vw;
   background-color: #444df7be;
   text-decoration: none;
-}
-
-a:visited {
-  color: rgb(0, 94, 39);
+  margin:1vw;
 }
 
 a:hover {
-  color:white;
   background-color: #444cf7;
 }
 
